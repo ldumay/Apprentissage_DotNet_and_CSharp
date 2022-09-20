@@ -9,6 +9,6 @@
 ## Cours
 - https://univcergy.phpnet.org/itescia/
 
-## Exos
+## Projet
 
-### Exo 1
+- Les Bases
