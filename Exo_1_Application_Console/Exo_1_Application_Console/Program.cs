@@ -26,6 +26,18 @@ class LesBases{
         article1.afficher();
         article2.afficher();
         article3.afficher();
+        
+        //-Un utilisateur créer un article
+        Console.WriteLine("[Création d'un article par un utilisateur]");
+        Console.WriteLine("- Nom de l'article: ");
+        string nomArticle = Console.ReadLine();
+        Console.WriteLine("- Prix de l'article: ");
+        double prixArticle = Convert.ToDouble(Console.ReadLine());
+        Console.WriteLine("- Quantité de l'article: ");
+        int quantiteArticle = Convert.ToInt32(Console.ReadLine());
+        Article article4 = new Article(nomArticle, prixArticle, quantiteArticle);
+        article4.afficher();
+        
 
         Console.WriteLine("---[Stop]---");
     }

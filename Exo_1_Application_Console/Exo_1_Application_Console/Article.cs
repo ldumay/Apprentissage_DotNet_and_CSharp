@@ -41,9 +41,9 @@ public class Article
     public void afficher(){
         Console.WriteLine(
             "[Article]"
-            +"\n-nom:"+nom
-            +"\n-prix:"+prix
-            +"\n-quantite:"+quantite
+            +"\n-nom: "+nom
+            +"\n-prix: "+prix
+            +"\n-quantite: "+quantite
             );
     }
 
@@ -52,6 +52,7 @@ public class Article
     */
     public void ajouter(int quantite){
         this.quantite += quantite;
+        afficheNewQuantite();
     }
 
     /**
@@ -59,6 +60,18 @@ public class Article
     */
     public void retirer(int quantite){
         this.quantite -= quantite;
+        afficheNewQuantite();
+    }
+    
+    /**
+     * Retourne le prix total de l'article.
+     */
+    public void afficheNewQuantite(){
+        Console.WriteLine(
+            "[Article-Update]"
+              +"\n-nom: "+nom
+              +"\n-nouvelle quantité: "+quantite
+              );
     }
 
 }
