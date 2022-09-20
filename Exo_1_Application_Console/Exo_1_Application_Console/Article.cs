@@ -1,11 +1,13 @@
+//-Namespce du projet
+namespace Exo_1_Application_Console;
+
 //-Importation des classes système
 using System;
 
 /**
- * Classe article
+ * Classe Article
  */
-public class Article
-{
+public class Article {
 
     //-Attribut de nom de l'article.
     public string nom;
@@ -13,6 +15,8 @@ public class Article
     public double prix;
     //-Attribut de quantite de l'article.
     public int quantite;
+    //-Attribut de type de l'article.
+    public ArticleType type;
 
     //Getter et Setter de l'attribut de nom de l'article.
     public string Nom{ get { return nom; } set { nom = value;} }
@@ -24,10 +28,11 @@ public class Article
     /**
      * Constructeur complet de la classe article.
      */
-    public Article(string nom, double prix, int quantite){
+    public Article(string nom, double prix, int quantite, ArticleType type) {
         this.nom = nom;
         this.prix = prix;
         this.quantite = quantite;
+        this.type = type;
     }
 
     /**
@@ -44,6 +49,7 @@ public class Article
             +"\n-nom: "+nom
             +"\n-prix: "+prix
             +"\n-quantite: "+quantite
+            +"\n-type: "+type
             );
     }
 
