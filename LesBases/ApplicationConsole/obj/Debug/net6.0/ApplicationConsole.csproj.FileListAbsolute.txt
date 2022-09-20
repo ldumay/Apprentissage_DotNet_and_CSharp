@@ -1,0 +1,15 @@
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/LesBases/ApplicationConsole/bin/Debug/net6.0/ApplicationConsole
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/LesBases/ApplicationConsole/bin/Debug/net6.0/ApplicationConsole.deps.json
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/LesBases/ApplicationConsole/bin/Debug/net6.0/ApplicationConsole.runtimeconfig.json
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/LesBases/ApplicationConsole/bin/Debug/net6.0/ApplicationConsole.dll
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/LesBases/ApplicationConsole/bin/Debug/net6.0/ApplicationConsole.pdb
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/LesBases/ApplicationConsole/obj/Debug/net6.0/ApplicationConsole.csproj.AssemblyReference.cache
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/LesBases/ApplicationConsole/obj/Debug/net6.0/ApplicationConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/LesBases/ApplicationConsole/obj/Debug/net6.0/ApplicationConsole.AssemblyInfoInputs.cache
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/LesBases/ApplicationConsole/obj/Debug/net6.0/ApplicationConsole.AssemblyInfo.cs
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/LesBases/ApplicationConsole/obj/Debug/net6.0/ApplicationConsole.csproj.CoreCompileInputs.cache
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/LesBases/ApplicationConsole/obj/Debug/net6.0/ApplicationConsole.dll
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/LesBases/ApplicationConsole/obj/Debug/net6.0/refint/ApplicationConsole.dll
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/LesBases/ApplicationConsole/obj/Debug/net6.0/ApplicationConsole.pdb
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/LesBases/ApplicationConsole/obj/Debug/net6.0/ApplicationConsole.genruntimeconfig.cache
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/LesBases/ApplicationConsole/obj/Debug/net6.0/ref/ApplicationConsole.dll
