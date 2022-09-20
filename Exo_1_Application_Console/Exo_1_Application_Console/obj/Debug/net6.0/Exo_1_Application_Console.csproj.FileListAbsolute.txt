@@ -1,0 +1,15 @@
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/Exo_1_Application_Console/Exo_1_Application_Console/obj/Debug/net6.0/Exo_1_Application_Console.csproj.AssemblyReference.cache
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/Exo_1_Application_Console/Exo_1_Application_Console/obj/Debug/net6.0/Exo_1_Application_Console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/Exo_1_Application_Console/Exo_1_Application_Console/obj/Debug/net6.0/Exo_1_Application_Console.AssemblyInfoInputs.cache
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/Exo_1_Application_Console/Exo_1_Application_Console/obj/Debug/net6.0/Exo_1_Application_Console.AssemblyInfo.cs
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/Exo_1_Application_Console/Exo_1_Application_Console/obj/Debug/net6.0/Exo_1_Application_Console.csproj.CoreCompileInputs.cache
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/Exo_1_Application_Console/Exo_1_Application_Console/bin/Debug/net6.0/Exo_1_Application_Console
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/Exo_1_Application_Console/Exo_1_Application_Console/bin/Debug/net6.0/Exo_1_Application_Console.deps.json
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/Exo_1_Application_Console/Exo_1_Application_Console/bin/Debug/net6.0/Exo_1_Application_Console.runtimeconfig.json
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/Exo_1_Application_Console/Exo_1_Application_Console/bin/Debug/net6.0/Exo_1_Application_Console.dll
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/Exo_1_Application_Console/Exo_1_Application_Console/bin/Debug/net6.0/Exo_1_Application_Console.pdb
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/Exo_1_Application_Console/Exo_1_Application_Console/obj/Debug/net6.0/Exo_1_Application_Console.dll
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/Exo_1_Application_Console/Exo_1_Application_Console/obj/Debug/net6.0/refint/Exo_1_Application_Console.dll
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/Exo_1_Application_Console/Exo_1_Application_Console/obj/Debug/net6.0/Exo_1_Application_Console.pdb
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/Exo_1_Application_Console/Exo_1_Application_Console/obj/Debug/net6.0/Exo_1_Application_Console.genruntimeconfig.cache
+/Users/mtl/Projets/DotNet_&_C#/Apprentissage_DotNet_and_CSharp/Exo_1_Application_Console/Exo_1_Application_Console/obj/Debug/net6.0/ref/Exo_1_Application_Console.dll

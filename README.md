@@ -9,3 +9,6 @@
 ## Cours
 - https://univcergy.phpnet.org/itescia/
 
+## Exos
+
+### Exo 1
