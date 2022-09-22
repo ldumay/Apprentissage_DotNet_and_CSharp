@@ -23,6 +23,9 @@ class LesBases{
         
         //-Retirer
         article1.retirer(5);
+
+        //-Modifier
+        article2.Quantite = 20;
         
         //-Affichage
         article1.afficher();
