@@ -1,6 +1,6 @@
 # Apprentissage du DotNet & C#
 
-> 🚨 **Projet déplacer ici ▶▶ : [https://github.com/2023-esiee-projectlab/esiee-it_2022_apprentissage_dotnet_and_csharp](https://github.com/2023-esiee-projectlab/esiee-it_2022_apprentissage_dotnet_and_csharp)**
+> 🚨 **Projet déplacer ici ▶▶ : [https://github.com/2023-esiee-projectlab/M2_apprentissage_dotnet_and_csharp](https://github.com/2023-esiee-projectlab/M2_apprentissage_dotnet_and_csharp)**
 
 ## Requis
 
